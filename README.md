@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/kadriye-aksakal-b805ba128/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" width="30" height="30"/></a> &nbsp;&nbsp;<a href="https://medium.com/@kadriyeaksakal" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="medium" width="30" height="30"/></a> &nbsp;&nbsp;<a href="https://twitter.com/kadriyeakskl" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="twitter" width="30" height="30"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter" width="30" height="30"/></a>
   </div>
 
 <!--
